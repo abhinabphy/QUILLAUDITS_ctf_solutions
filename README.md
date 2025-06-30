@@ -33,6 +33,9 @@ Key topics explored in Season 1 include:
 
 ## 📂 Repository Structure
 ```ultree
+output: foldable
+
+
 QUILLAUDITS_ctf_solutions
 ├── README.md
 ├── factory
