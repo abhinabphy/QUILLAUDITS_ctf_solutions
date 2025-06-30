@@ -1,0 +1,12 @@
+[submodule "quillaudit_sol/lib/forge-std"]
+	path = quillaudit_sol/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "quillaudit_sol/lib/openzeppelin-contracts"]
+	path = quillaudit_sol/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "factory/lib/forge-std"]
+	path = factory/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
