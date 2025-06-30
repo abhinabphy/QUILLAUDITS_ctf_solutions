@@ -54,6 +54,9 @@ Key topics explored in Season 1 include:
     ├── script
     ├── src
     └── test
+    next_challenges/
+    .
+    .
 ```
 
 
