@@ -32,6 +32,7 @@ Key topics explored in Season 1 include:
 ---
 
 ## 📂 Repository Structure
+```
 .
 ├── README.md
 ├── factory
@@ -53,8 +54,7 @@ Key topics explored in Season 1 include:
     ├── script
     ├── src
     └── test
-..
-
+```
 
 
 ---
